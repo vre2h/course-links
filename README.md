@@ -1,7 +1,6 @@
 # Important links #
 
 ## HTML/CSS ##
-***
 1. [HTML Tags](https://www.w3schools.com/tags/default.asp)
 2. [CSS Selector](https://www.w3schools.com/cssref/css_selectors.asp)
 3. [CSS Properties](https://www.w3schools.com/cssref/default.asp)
@@ -15,8 +14,8 @@
 11. For Ubuntu users [The latest version of Git](https://askubuntu.com/questions/568591/how-do-i-install-the-latest-version-of-git-with-apt/568596)
 12. For Ubuntu users [Slack](https://itsfoss.com/slack-use-linux/)
 
+***
 
 ## JS ##
-***
 1. Books: You Don't Know JS
 2. [Grammar and types](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Grammar_and_Types) MDN
