@@ -17,5 +17,5 @@
 ***
 
 ## JS ##
-1. Books: You Don't Know JS
+1. Book: You Don't Know JS
 2. [Grammar and types](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Grammar_and_Types) MDN
