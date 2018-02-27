@@ -11,8 +11,8 @@
 8. Playground for [Flexbox](https://codepen.io/enxaneta/full/adLPwv)
 9. [Flexbox Froggy](http://flexboxfroggy.com/)
 10. Some cases solved by [Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
-11. For Ubuntu [The latest version of Git](https://askubuntu.com/questions/568591/how-do-i-install-the-latest-version-of-git-with-apt/568596)
-12. For Ubuntu [Slack](https://itsfoss.com/slack-use-linux/)
+11. For Ubuntu users [The latest version of Git](https://askubuntu.com/questions/568591/how-do-i-install-the-latest-version-of-git-with-apt/568596)
+12. For Ubuntu users [Slack](https://itsfoss.com/slack-use-linux/)
 
 ***
 
