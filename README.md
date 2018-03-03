@@ -28,7 +28,7 @@
 8. [Typeof](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)
 9. [EcmaScript Spec](http://www.ecma-international.org/ecma-262/5.1/#sec-8)
 10. [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-11. [Object-to-Primitive Conversions in JavaScript](http://www.adequatelygood.com/Object-to-Primitive-Conversions-in-JavaScript.htm)
+11. [Object-to-Primitive Conversions in JavaScript](http://www.adequatelygood.com/Object-to-Primitive-Conversions-in-JavaScript.html)
 12. [Object Conversion](https://learn.javascript.ru/object-conversion)
 13. [toNumber](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/prototype)
 14. [toString](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/prototype)
