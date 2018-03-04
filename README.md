@@ -18,7 +18,7 @@
 ***
 
 ## JS ##
-1. Book: You Don't Know JS
+1. Books: You Don't Know JS
 2. [Grammar and types](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Grammar_and_Types) MDN
 3. Why Nan != NaN [1](https://stackoverflow.com/questions/1565164/what-is-the-rationale-for-all-comparisons-returning-false-for-ieee754-nan-values)
 4. Why Nan != NaN [2](https://www.quora.com/In-JavaScript-why-does-the-expression-NaN-NaN-give-a-false-value)
@@ -32,3 +32,4 @@
 12. [Object Conversion](https://learn.javascript.ru/object-conversion)
 13. [toNumber](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/prototype)
 14. [toString](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/prototype)
+15. [GTU](https://github.com/aca-betconstruct/test-force)
