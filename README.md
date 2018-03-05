@@ -33,3 +33,5 @@
 13. [toNumber](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/prototype)
 14. [toString](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/prototype)
 15. [GTU](https://github.com/aca-betconstruct/test-force)
+16. Typing. [Wrapper Objects for Primitives](http://speakingjs.com/es5/ch08.html)
+17. [Call, Apply, Bind](https://www.codementor.io/niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
