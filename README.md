@@ -35,3 +35,5 @@
 15. [GTU](https://github.com/aca-betconstruct/test-force)
 16. Typing. [Wrapper Objects for Primitives](http://speakingjs.com/es5/ch08.html)
 17. [Call, Apply, Bind](https://www.codementor.io/niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
+18. [Scope and Context](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
+19. [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
