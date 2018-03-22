@@ -37,6 +37,7 @@
 17. [Call, Apply, Bind](https://www.codementor.io/niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
 18. [Scope and Context](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
 19. [Array-like objects and Generic Methods](http://2ality.com/2013/05/quirk-array-like-objects.html)
+20. [this](https://habrahabr.ru/post/149516/)
 ***
 
 ## Common links ##
@@ -45,3 +46,5 @@
 2. [Principle of least privilege
 ](https://en.wikipedia.org/wiki/Principle_of_least_privilege)
 3. [API](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)
+4. [p5js — Visualization Library](https://p5js.org/)
+5. [Blind 10 fingers printing](http://klava.org)
