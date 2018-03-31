@@ -38,6 +38,7 @@
 18. [Scope and Context](http://ryanmorr.com/understanding-scope-and-context-in-javascript/)
 19. [Array-like objects and Generic Methods](http://2ality.com/2013/05/quirk-array-like-objects.html)
 20. [this](https://habrahabr.ru/post/149516/)
+21. [ForEach, Filter, Map, Every/Some](https://learn.javascript.ru/array-iteration)
 ***
 
 ## Common links ##
