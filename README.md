@@ -6,4 +6,4 @@
 3. [OOP](/course-links/oop/)
 4. [Common Links](/course-links/commonLinks/)
 5. [GIT](https://git-scm.com/book/en/v2)
-(Basic Knowledge - 1-2 chapters)
+(Basic Knowledges - 1-2 chapters)
