@@ -39,6 +39,14 @@
 19. [Array-like objects and Generic Methods](http://2ality.com/2013/05/quirk-array-like-objects.html)
 20. [this](https://habrahabr.ru/post/149516/)
 21. [ForEach, Filter, Map, Every/Some](https://learn.javascript.ru/array-iteration)
+
+***
+
+## OOP ##
+
+1. [Encapsulation and Data Hiding (ru)](https://pro-prof.com/forums/topic/oop-encapsulation-and-hiding-data)
+2. [Difference between Encapsulation and Data Hiding (eng)](https://techdifferences.com/difference-between-data-hiding-and-encapsulation.html)
+
 ***
 
 ## Common links ##
