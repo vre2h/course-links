@@ -2,7 +2,7 @@
 
 ## HTML ##
 - [HTML Tags](https://www.w3schools.com/tags/default.asp)
-- [HTML Intro] (https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [HTML Intro](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
 ## CSS ##
 - [CSS Selector](https://www.w3schools.com/cssref/css_selectors.asp)
