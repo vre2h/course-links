@@ -8,3 +8,5 @@
 - [9 Common Mistakes](https://www.sitepoint.com/learning-javascript-9-common-mistakes/)
 - For Ubuntu [The latest version of Git](https://askubuntu.com/questions/568591/how-do-i-install-the-latest-version-of-git-with-apt/568596)
 - [Technical Interview](https://github.com/SurenAt93/Technical-Interview/blob/master/ti.eng.md)
+- [Material Design](https://material.io/)
+- [Practice](https://codefights.com/)
