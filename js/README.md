@@ -22,3 +22,4 @@
 - [this](https://habrahabr.ru/post/149516/)
 - [ForEach, Filter, Map, Every/Some](https://learn.javascript.ru/array-iteration)
 - [JS Background Compilation](https://v8project.blogspot.am/2018/03/background-compilation.html)
+- [Fetch API](https://developers.google.com/web/ilt/pwa/working-with-the-fetch-api)
