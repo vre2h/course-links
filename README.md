@@ -6,3 +6,4 @@
 3. [OOP](https://vre2h.github.io/course-links/oop/)
 4. [Common Links](https://vre2h.github.io/course-links/commonLinks/)
 5. [GIT](https://git-scm.com/book/en/v2) (Basic Knowledges - 1-2 chapters)
+6. [Responsive Design](https://vre2h.github.io/course-links/RespDesign)
