@@ -15,3 +15,4 @@
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - Some cases solved by [Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 - [CSS Grid Garden](http://cssgridgarden.com/)
+- [Safe Font](https://www.cssfontstack.com/)
