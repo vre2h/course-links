@@ -7,4 +7,4 @@
 4. [Common Links](commonLinks/)
 5. [GIT](https://git-scm.com/book/en/v2) (Basic Knowledges - 1-2 chapters)
 6. [Responsive Design](RespDesign/)
-7. [HTML/CSS styleguides](htmlCssStyles/)
+7. [HTML/CSS styleguides](style-guides/html-css)
