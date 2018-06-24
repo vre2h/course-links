@@ -17,3 +17,8 @@
 - [CSS Grid Garden](http://cssgridgarden.com/)
 - [Safe Font](https://www.cssfontstack.com/)
 - [Bg-size: cover || contain](https://css-tricks.com/almanac/properties/b/background-size/)
+- [Unicode character sets](https://unicode-table.com/en/sets/)
+- [List of Unicode characters](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
+- [Font Awesome](https://fontawesome.com/?from=io)
+- [Icon Fonts](http://weloveiconfonts.com/)
+- [SVG Optimiser](http://petercollingridge.appspot.com/svg-optimiser)
