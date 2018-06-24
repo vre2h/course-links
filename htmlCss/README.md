@@ -16,3 +16,4 @@
 - Some cases solved by [Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
 - [CSS Grid Garden](http://cssgridgarden.com/)
 - [Safe Font](https://www.cssfontstack.com/)
+- [Bg-size: cover || contain](https://css-tricks.com/almanac/properties/b/background-size/)
