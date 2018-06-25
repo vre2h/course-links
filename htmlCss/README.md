@@ -22,3 +22,4 @@
 - [Font Awesome](https://fontawesome.com/?from=io)
 - [Icon Fonts](http://weloveiconfonts.com/)
 - [SVG Optimiser](http://petercollingridge.appspot.com/svg-optimiser)
+- [How To Make Your Websites Faster On Mobile Devices](https://www.smashingmagazine.com/2013/04/build-fast-loading-mobile-website/)
