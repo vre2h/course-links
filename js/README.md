@@ -1,6 +1,6 @@
-# JS #
+# JS
 
-- Books: You Don't Know JS
+- Books: You Don't Know JS by Kyle Simpson
 - [Grammar and types](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Grammar_and_Types) MDN
 - Why Nan != NaN [1](https://stackoverflow.com/questions/1565164/what-is-the-rationale-for-all-comparisons-returning-false-for-ieee754-nan-values)
 - Why Nan != NaN [2](https://www.quora.com/In-JavaScript-why-does-the-expression-NaN-NaN-give-a-false-value)
@@ -24,7 +24,11 @@
 - [JS Background Compilation](https://v8project.blogspot.am/2018/03/background-compilation.html)
 - [Fetch API](https://developers.google.com/web/ilt/pwa/working-with-the-fetch-api)
 
+## Asynchrony
 
-## Event Loop
-- [Event Loop](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
+- Event Loop
+  - [Article](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
+  - [Video by Jack Archibald](https://youtu.be/cCOL7MC4Pl0)
+  - [Video by Philip Roberts](https://youtu.be/8aGhZQkoFbQ)
 - [Tasks and Microtasks](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+- Also I recommend to solve some [tasks](https://github.com/vre2h/async-tasks)
