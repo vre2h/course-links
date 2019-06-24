@@ -16,4 +16,8 @@
 
 ## Tools
 
-- [GIT](https://git-scm.com/book/en/v2) (The first and second chapters are enough for beginners)
+- [GIT](git/)
+
+## Computer science
+
+- [Algorithms](algorithms/)
