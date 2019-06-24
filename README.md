@@ -12,7 +12,6 @@
 ## Programming Paradigms
 
 - [OOP](oop/)
-- [Common Links](commonLinks/)
 
 ## Tools
 
@@ -21,3 +20,11 @@
 ## Computer science
 
 - [Algorithms](algorithms/)
+
+## DEVOPS
+
+- [Docker](devops/)
+
+## Additional
+
+- [Common Links](commonLinks/)
