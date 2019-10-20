@@ -24,7 +24,7 @@
 - [JS Background Compilation](https://v8project.blogspot.am/2018/03/background-compilation.html)
 - [Fetch API](https://developers.google.com/web/ilt/pwa/working-with-the-fetch-api)
 
-## Asynchrony
+## Asynchronous
 
 - Event Loop
   - [Article](https://hackernoon.com/understanding-js-the-event-loop-959beae3ac40)
