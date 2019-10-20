@@ -1,5 +1,6 @@
 # JS
 
+## Theoretical
 - Books: You Don't Know JS by Kyle Simpson
 - [Grammar and types](https://developer.mozilla.org/bm/docs/Web/JavaScript/Guide/Grammar_and_Types) MDN
 - Why Nan != NaN [1](https://stackoverflow.com/questions/1565164/what-is-the-rationale-for-all-comparisons-returning-false-for-ieee754-nan-values)
@@ -22,6 +23,9 @@
 - [this](https://habrahabr.ru/post/149516/)
 - [ForEach, Filter, Map, Every/Some](https://learn.javascript.ru/array-iteration)
 - [JS Background Compilation](https://v8project.blogspot.am/2018/03/background-compilation.html)
+
+## Practical
+- [JS Naming Conventions](https://www.robinwieruch.de/javascript-naming-conventions)
 - [Fetch API](https://developers.google.com/web/ilt/pwa/working-with-the-fetch-api)
 
 ## Asynchronous
